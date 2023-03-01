@@ -1,0 +1,35 @@
+/* body{
+    background-color: aqua;
+} */
+
+/* default margin or padding khatam krta he * */
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+div{
+    background-color: aqua;
+
+}
+h1{
+    color: blue;
+}
+h1{
+    color: red;
+}
+h1{
+    color: yellow;
+}
+h1{
+    color: green;
+}
+
+#clr{
+    background-color: aquamarine;
+
+}
+#clr1{
+    /* background-color: red; */
+
+}

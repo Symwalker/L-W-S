@@ -1,0 +1,54 @@
+#heading1{
+    background-color: aqua;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: center;
+    vertical-align: baseline;
+}
+#heading2{
+    background-color:#000;
+    color: aliceblue;
+    opacity: 0.5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:end;
+    
+
+}
+#heading3{
+    background-color:#000;
+    color: aliceblue;
+    font-family: cursive;
+    text-indent: 20px;
+}
+#heading4{
+    background-color:rgb(10, 160, 176,0.18);
+    color: aliceblue;
+}
+#parag{
+    font-size: 32px;
+    font-weight: 600;
+    /* font-style: italic; */
+    font-style: oblique;
+    text-transform: uppercase;
+   
+}
+#lorem{
+text-decoration: underline;
+}
+#para{
+    line-height: 60px;
+    font-size: large;
+}
+a{
+    text-decoration: double;
+}
+#spac{
+    /* letter-spacing: 0.8em; */
+    word-spacing: 1em;
+}
+#align{
+    vertical-align: text-top;
+}
+#inp{
+    text-indent: 10px;
+}
