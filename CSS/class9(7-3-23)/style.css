@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#ull {
+    /* display: inline; */
+    /* display: block; */
+    /* display: inline-block; */
+    /* display: flex; */
+    /* list-style-type: none; */
+    padding: 12px;
+
+}
+
+#ull li {
+    /* display: inline; */
+    /* display: block; */
+    /* display: inline-block; */
+    /* padding-right: 12px; */
+    /* list-style-type:circle; */
+    list-style-position: inside;
+
+}
+
+li.about {
+    /* background: #000;
+    color: aliceblue; */
+    /* display: inline; */
+    /* display: none ; */
+    /* visibility: hidden; */
+}
+
+#bgimg {
+    /* -webkit-border-image:url("https://i.pinimg.com/736x/fd/fb/ba/fdfbba317609890b779fd14cd3ac3823.jpg") 30 30 repeat; */
+    /* border-width: 2;
+    border-color: #000;
+    border-style: double; */
+    /* width:"200px" ;
+    height:"200px" ; */
+    /* background: #ffffff;
+    color: rgb(0, 0, 0);
+    box-shadow:10px 10px 10px #8f8f8f ; */
+}
+
+#divra {
+    width: 30%;
+    /* background: #000; */
+    /* height: 200px; */
+    /* padding: 30px; */
+    /*height: "200px";
+    border-radius: 5px;
+    border: 5px solid red; */
+}
+
+.bdr {
+    /* border-radius: 10px; */
+    /* width: "200px"; */
+    /* border-radius: 10px 5px 3px 1px; */
+    border-radius: 5px;
+    border: 5px solid red;
+}
+
+table {
+    width: 600px;
+    border: 1px solid red;
+}
+
+th,
+td {
+    padding: 5px 5px 5px 5px;
+}
+
+th {
+    text-transform: uppercase;
+    border-bottom: 2px solid #111111;
+    border-top: 2px solid #777777;
+    text-align: left;
+}
+tr.even{
+    background: #b4b1b1;
+}
+tr:hover {
+    background-color: #c3e6e5;}
+    .money {
+        text-align: right;}

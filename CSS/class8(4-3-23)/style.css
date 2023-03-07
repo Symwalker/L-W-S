@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-shadow: -1px -2px 2px #5e5d5d;
+    text-align: center;
+}
+a:link{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+/* a:visited{
+    color: rgb(255, 238, 0);
+} */
+a:hover{
+    color: blueviolet;
+}
+button:active{
+    background-color: brown;
+}
+input:focus{
+    background: #000;
+}
+#divra ul{
+    display: flex;
+    padding: 12px;
+    
+}
+#divra ul li{
+list-style-type: none;
+    
+}
+p[class="dog"]{
+color: red;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    background: pink;
+}
+.box div{
+    width: 75%;
+    height:75%;
+    background: green;
+}
+p.one {
+    overflow: hidden;}
+
+    p.two {
+        /* width:150px;
+        height: 150px; */
+        /* background: #000; */
+        color: black;
+        /* overflow: scroll; */
+        /* border-wi:1px 2px; */
+        border-color: black;
+        border-style: solid;
+        border-width: 0px 3px 0px 10px;
+        /* border-width: 3px; */
+        /* border: 1px solid black ; */
+        
+        /* margin: 15px; */
+        margin: 2px 15px;
+        /* margin: 2px 5px 5px 15px; */
+        padding: 15px;
+    }
+    .box1{
+        border: 2px solid black;
+        /* margin: 5px; */
+        width: 400px;
+        /* margin-right: auto;
+        margin-left: auto; */
+margin: 10px auto;
+padding: 12px;
+
+    }
+    .box1 p{
+        text-align: center;
+        margin-top: 30px;
+        border: 2px solid green;
+    }
+#ull li{
+    display: inline;
+    padding: 12px;
+}
+li.coming-soon{
+    display: none;
+    visibility: none;
+}
