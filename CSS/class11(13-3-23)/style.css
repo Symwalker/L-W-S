@@ -1,0 +1,46 @@
+@import url(./services.css);
+
+
+.divra{
+
+    /* width: 330px; */
+    /* float: right; */
+    /* float: left; */
+    /* border: 1px solid red; */
+}
+/* .pa{
+    width: 330px;
+    float: left;
+    height: 90px;
+    border: 1px solid red;
+    
+} */
+/* p{
+    width: 330px;
+    float: right;
+    border: 1px solid red;
+    clear: both;
+    
+} */
+
+h3{
+    float: left;
+    border: 1px solid black;
+}
+ul {
+    float: right;
+    list-style-type: none;
+    border: 1px solid red;
+
+
+}
+ul li{
+    float: left;
+    padding-right:12px ;
+}
+@media only screen and (max-width: 600px) {
+    
+    ul {
+        display: none;
+    }
+  }
